@@ -1,11 +1,24 @@
 <div align="center">
 <h1 align="center"> Hi, I'm Aarón 👋</h1> </div>
-
+<img src="src/banner.PNG" alt="Descripción de la imagen">
 
 
 
 ## About Me
-
+  <h2>👨‍🎓 My Education</h1>
+  <h2>University Degree</h2>
+    <ul>
+        <li>University Name: Tecnológico de Costa Rica University</li>
+        <li>Degree Earned: Bachelor of Computer Science Engineer</li>
+        <li>Year of Graduation: 2025</li>
+    </ul>
+ <h2>Secondary Education</h2>
+    <ul>
+        <li>School: Liceo de Cariari and Liceo Experimental Bilingue</li>
+        <li>Degree Earned: High School Diploma</li>
+        <li>Year of Graduation: 2018</li>
+  </ul>
+    
 
 <br>
 
