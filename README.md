@@ -39,16 +39,16 @@
 <table>
 <tr>
   <td width="50%">
-    <h3 align="center">Curso Android Intermedio</h3>
+    <h3 align="center">Working</h3>
     <div align="center">
-      <p>Intermediate level Android course focusing on advanced topics.</p>
+      <p>....</p>
       <a href="https://github.com/your_username/android-intermediate-course">Repository Link</a>
     </div>
   </td>
   <td width="50%">
-    <h3 align="center">Curso Kotlin Multiplatform</h3>
+    <h3 align="center">Working</h3>
     <div align="center">
-      <p>Kotlin Multiplatform course covering cross-platform development.</p>
+      <p>....</p>
       <a href="https://github.com/your_username/kotlin-multiplatform-course">Repository Link</a>
     </div>
   </td>
@@ -58,7 +58,7 @@
 <br>
 
 
-## About Me
+## 🙋🏻‍♂️ About Me
   <h2>University Degree</h2>
     <ul>
         <li>University Name: Tecnológico de Costa Rica University</li>
