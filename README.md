@@ -19,7 +19,7 @@
   <td width="50%">
     <h3 align="center">Genetic Code</h3>
     <div align="center">
-      <img src="src/gentic.webp" alt="Genetic Code Project" width="300">
+      <img src="src/gentic.webp" alt="Genetic Code Project" width="390">
       <p>Using Genetic Algorithms to draw image in a lineal way with open cv ( A* )</p>
       <a href="https://github.com/16pixar/Image-Vectorization">Repository Link</a>
     </div>
@@ -27,6 +27,7 @@
   <td width="50%">
     <h3 align="center">Minesweeper Game on Rasbian</h3>
     <div align="center">
+      <img src="src/min.PNG" alt="Rasbian Code Project" width="150">
       <p>Dynamic code for implementing the classic Minesweeper game utilizing RISC architecture on Rasbian OS.</p>
       <a href="https://github.com/16pixar/Minesweeper-RISC-architecture-Raspbian">Repository Link</a>
     </div>
