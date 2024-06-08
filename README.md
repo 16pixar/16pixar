@@ -19,6 +19,7 @@
   <td width="50%">
     <h3 align="center">Genetic Code</h3>
     <div align="center">
+      <img src="src/gentic.webp" alt="Genetic Code Project" width="300">
       <p>Using Genetic Algorithms to draw image in a lineal way with open cv ( A* )</p>
       <a href="https://github.com/16pixar/Image-Vectorization">Repository Link</a>
     </div>
@@ -58,7 +59,6 @@
 
 
 ## About Me
-  <h2>👨‍🎓 My Education</h1>
   <h2>University Degree</h2>
     <ul>
         <li>University Name: Tecnológico de Costa Rica University</li>
