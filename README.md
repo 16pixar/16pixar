@@ -4,7 +4,6 @@
 <img src="src/banner.PNG" alt="Descripción de la imagen">
 
 ### ⚙️ &nbsp;GitHub Analytics
-
 <p align="center">
 <a href="https://github.com/16pixar">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=16pixar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
