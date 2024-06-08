@@ -12,49 +12,50 @@
 </a>
 </p>
 
-## Proyects
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Genetic Code</h3>
-<div align="center">
-<p> Using Genetics Algoritms </p>
-</div>
-                                                                                      
-</td>
-
-<td width="50%">
-               <br>
-<h3 align="center">Arquitectura MVVM</h3>
-<div align="center">              
-<br>
-</p> .... </p>
-</div>                                                             
-</table>                                                                                 
-</div>
-<br>
+## 🔨Projects
 
 <table>
 <tr>
-<td width="50%">
-<h3 align="center">Curso Android Intermedio</h3>
-<div align="center">
+  <td width="50%">
+    <h3 align="center">Genetic Code</h3>
+    <div align="center">
+      <p>Using Genetic Algorithms to draw image in a lineal way with open cv ( A* )</p>
+      <a href="https://github.com/16pixar/Image-Vectorization">Repository Link</a>
+    </div>
+  </td>
+  <td width="50%">
+    <h3 align="center">Arquitectura MVVM</h3>
+    <div align="center">
+      <p>Description of the MVVM architecture project.</p>
+      <a href="https://github.com/your_username/mvvm-architecture">Repository Link</a>
+    </div>
+  </td>
+</tr>
+</table>
 
-<p>.....</p>
-</div>
-                                                                                      
-</td>       
-
-<td width="50%">
-<h3 align="center">Curso Kotlin Multiplatform</h3>
-<div align="center">
-<p>....</p>
-</div>
-                                                                                      
-</td>  
-</table>                                                                                 
-</div>
 <br>
+
+<table>
+<tr>
+  <td width="50%">
+    <h3 align="center">Curso Android Intermedio</h3>
+    <div align="center">
+      <p>Intermediate level Android course focusing on advanced topics.</p>
+      <a href="https://github.com/your_username/android-intermediate-course">Repository Link</a>
+    </div>
+  </td>
+  <td width="50%">
+    <h3 align="center">Curso Kotlin Multiplatform</h3>
+    <div align="center">
+      <p>Kotlin Multiplatform course covering cross-platform development.</p>
+      <a href="https://github.com/your_username/kotlin-multiplatform-course">Repository Link</a>
+    </div>
+  </td>
+</tr>
+</table>
+
+<br>
+
 
 ## About Me
   <h2>👨‍🎓 My Education</h1>
