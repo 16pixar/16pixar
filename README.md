@@ -25,10 +25,10 @@
     </div>
   </td>
   <td width="50%">
-    <h3 align="center">Arquitectura MVVM</h3>
+    <h3 align="center">Minesweeper Game on Rasbian</h3>
     <div align="center">
-      <p>Description of the MVVM architecture project.</p>
-      <a href="https://github.com/your_username/mvvm-architecture">Repository Link</a>
+      <p>Dynamic code for implementing the classic Minesweeper game utilizing RISC architecture on Rasbian OS.</p>
+      <a href="https://github.com/16pixar/Minesweeper-RISC-architecture-Raspbian">Repository Link</a>
     </div>
   </td>
 </tr>
