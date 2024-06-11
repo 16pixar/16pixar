@@ -2,9 +2,6 @@
 <!--<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=600&color=4EA530&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Aar%C3%B3n+;Software+Engineer" alt="Typing SVG" /></a> -->
 <!--<h1 align="center"> Hi, I'm Aarón<img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></h1> 
 -->
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&size=30&duration=4000&pause=600&color=000000&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Aar%C3%B3n+;Software+Engineer" alt="Typing SVG" /></a>
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Crimson+Text&size=45&duration=4000&pause=600&color=000000&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Aar%C3%B3n+;Software+Engineer" alt="Typing SVG" /></a>
 
 </div>
