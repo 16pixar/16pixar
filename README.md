@@ -1,9 +1,10 @@
 <div align="center">
-<h1 align="center"> Hi, I'm Aarón 👋</h1> </div>
+
+<h1 align="center"> Hi, I'm Aarón<img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture></h1> </div>
 <br>
 <img src="src/banner.PNG" alt="Descripción de la imagen">
 
-### ⚙️ &nbsp;GitHub Analytics
+### <b>⚙️ &nbsp;GitHub Analytics</b> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
 <p align="center">
 <a href="https://github.com/16pixar">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=16pixar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -14,7 +15,7 @@
 </div>
 </p>
 <!--<https://devicon.dev>-->
-<h2> 👨🏻‍💻 Languages </h2>
+<h2> 👨🏻‍💻 Languages <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> </h2>
 <table align ="center">
   <tr>  
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="python" width="55" height="65"/></td>
@@ -106,7 +107,7 @@
 <br>
 
 
-## 🙋🏻‍♂️ About Me
+## 🙋🏻‍♂️ About Me 
 
   <h2>Certification </h2>
     <ul>
