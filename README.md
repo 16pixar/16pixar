@@ -108,7 +108,9 @@
 
 
 ## 🙋🏻‍♂️ About Me 
-
+<p align="center">
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=600&color=06FF00&random=false&width=435&lines=Software+Engineer" alt="Typing SVG" /></a>
+</p>
   <h2>Certification </h2>
     <ul>
         <li>TEC: Neural networks</li>
